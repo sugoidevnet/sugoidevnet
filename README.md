@@ -2,10 +2,4 @@
 
 *"Sugoi" (凄い)* is a Japanese word that means "Amazing".
 
-What is so amazing? The code I share here is!
-
-## Find useful HTML elements and templates
-
-You can choose from the different HTML elements and blocks to add to your site, or use a full HTML template to start a new website.
-
-The code shared here is also an amazing resource to learn and practice new web development skills by reading, modifying and playing around with it.
+What is so amazing? The code shared here is.
