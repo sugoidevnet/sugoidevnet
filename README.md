@@ -2,9 +2,7 @@
 
 *"Sugoi" (凄い)* is a Japanese word that means "Amazing".
 
-## What is so amazing?
-
-The code I share here is.
+What is so amazing? The code I share here is!
 
 ## Find useful HTML elements and templates
 
